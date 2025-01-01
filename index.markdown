@@ -5,8 +5,26 @@
 layout: default
 ---
 
-That's me.
+![Image](josua_grawitter.jpg)
+Foto: M. Nguyen
 
+## Experience
+2016-2024 Research associate, Technische Universität Berlin
 
-<a rel="me" href="https://todon.eu/@josuagrw">todon.eu</a>
+## Training
+
+* 2024 Doktor der Naturwissenschaften (Dr. rer. nat.), Technische Universität Berlin
+* 2016 Master of Science, Technische Universität Berlin
+* 2014 Bachelor of Science, Technische Universität Berlin
+
+## Languages
+
+* English (C2)
+* German (language of socialization)
+
+## Coding experience
+
+* Julia (9 years)
+* Python (4 years)
+* C, PHP, Java (2 years)
 
