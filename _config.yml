@@ -21,7 +21,7 @@
 title: Dr. Josua Grawitter
 email: grawitter@posteo.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Former physicist, now interested in infrastructure and digitization.
+  Trained physicist, now interested in infrastructure and digitization.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://josua.gr" # the base hostname & protocol for your site, e.g. http://example.com
 domain: josua.gr
