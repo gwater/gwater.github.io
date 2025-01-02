@@ -10,17 +10,21 @@ Foto: M. Nguyen
 
 ## Experience
 ### 2016-2024 Research associate, Technische Universität Berlin
+* published 5 articles in international peer-reviewed journals as corresponding author ([see below](#publications))
+* prepared 2 grant proposals of 200.000+ EUR each, one of which funded
+* taught weekly classes (starting from 2019)
+* 10+ conference talks at international conferences
 
 ## Training
 
-* 2024 Doktor der Naturwissenschaften (Dr. rer. nat.), Technische Universität Berlin
+* 2024 Doktor der Naturwissenschaften, *summa cum laude*, Technische Universität Berlin
 * 2016 Master of Science, Technische Universität Berlin
 * 2014 Bachelor of Science, Technische Universität Berlin
 
 ## Languages
 
-* English (C2)
-* German (language of socialization)
+* English (excellent, C2)
+* German (excellent, language of socialization)
 
 ## Coding experience
 
@@ -36,4 +40,3 @@ Foto: M. Nguyen
 * J. Grawitter and H. Stark, [Steering droplets on substrates using moving steps in wettability](https://doi.org/10.1039/D0SM02082F), Soft Matter 17, 2454 (2021)
 * J. Grawitter R. van Buel, C. Schaaf, and H. Stark, [Dissipative systems with nonlocal delayed feedback control](https://doi.org/10.1088/1367-2630/aae998), New Journal of Physics 20, 113010 (2018)
 * J. Grawitter and H. Stark, [Feedback control of photoresponsive fluid interfaces](https://doi.org/10.1039/C7SM02101A), Soft Matter 14, 1856 (2018)
-
