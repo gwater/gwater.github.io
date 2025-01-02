@@ -50,34 +50,27 @@ Foto: M. Nguyen
 * J. Grawitter and H. Stark, [*Modelling droplets on substrates with travelling-wave deformations*](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/cpp/session/50/contribution/2), DPG spring meeting (2024), Berlin (Germany).
 * J. Grawitter and H. Stark, [*Steering droplets on substrates with plane-wave wettability patterns and deformations*](https://www.dpg-verhandlungen.de/year/2023/conference/skm/part/cpp/session/44/contribution/13), DPG spring meeting (2023), Dresden (Germany).
 * J. Grawitter and H. Stark, <a href=
-"https://wwuindico.uni-muenster.de/event/1463/contributions/1692/"
-class="extern">* Steering droplets on substrates with plane-wave wettability patterns and deformations*</a>, Dynamic Wetting of Flexible,
+"https://wwuindico.uni-muenster.de/event/1463/contributions/1692/">* Steering droplets on substrates with plane-wave wettability patterns and deformations*</a>, Dynamic Wetting of Flexible,
 Adaptive, and Switchable Substrates (2022), Göttingen (Germany).
 * J. Grawitter and H.
 Stark,&nbsp;<a href=
-"https://www.dpg-verhandlungen.de/year/2022/conference/regensburg/part/cpp/session/20/contribution/5"
-class="extern">*Steering droplets on substrates with periodic wettability patterns and deformations*</a>, DPG SKM meeting (2022), Regensburg (Germany).
+"https://www.dpg-verhandlungen.de/year/2022/conference/regensburg/part/cpp/session/20/contribution/5">*Steering droplets on substrates with periodic wettability patterns and deformations*</a>, DPG SKM meeting (2022), Regensburg (Germany).
 * J. Grawitter and H. Stark, <a href=
-"https://wwuindico.uni-muenster.de/event/868/contributions/956/"
-class="extern">*Droplets on substrates with moving and oscillating wettability patterns*</a>, Dynamic Wetting of Flexible,
+"https://wwuindico.uni-muenster.de/event/868/contributions/956/">*Droplets on substrates with moving and oscillating wettability patterns*</a>, Dynamic Wetting of Flexible,
 Adaptive, and Switchable Substrates (2021), Freiburg (Germany).
 * J. Grawitter and H. Stark,&nbsp;<a href=
-"https://web.archive.org/web/20200918180147/https://www.pks.mpg.de/mml19/scientific-program/"
-class="extern">*Simulating the hydrodynamics of droplets on
+"https://web.archive.org/web/20200918180147/https://www.pks.mpg.de/mml19/scientific-program/">*Simulating the hydrodynamics of droplets on
 photo-switchable substrates*</a>, Microscale Motion and Light
 (2019), Dresden (Germany).
 * J. Grawitter, R. van Buel, C. Schaaf, and H.
 Stark,&nbsp;<a href=
-"https://www.dpg-verhandlungen.de/year/2019/conference/regensburg/part/cpp/session/4/contribution/10"
-class="extern">*Dissipative systems with nonlocal delayed
+"https://www.dpg-verhandlungen.de/year/2019/conference/regensburg/part/cpp/session/4/contribution/10">*Dissipative systems with nonlocal delayed
 feedback*</a>, DPG spring meeting (2019), Regensburg (Germany).
 * J. Grawitter and H. Stark, *<a href=
-"https://www.dpg-verhandlungen.de/year/2018/conference/berlin/part/cpp/session/40/contribution/9"
-class="extern">Feedback-Control of Photoresponsive Fluid
+"https://www.dpg-verhandlungen.de/year/2018/conference/berlin/part/cpp/session/40/contribution/9">Feedback-Control of Photoresponsive Fluid
 Interfaces</a>*, DPG spring meeting (2018), Berlin (Germany).
-* J. Grawitter, *Light-driven transport at fluid-fluid interfaces*, Annual Meeting of IRTG 1524 (2017), Raleigh, NC (USA).
+* J. Grawitter, *Light-driven transport at fluid-fluid interfaces*, Annual Meeting of [IRTG 1524](https://web.archive.org/web/20180530134341/http://www.ssni.tu-berlin.de/menue/home) (2017), Raleigh, NC (USA).
 * J. Grawitter and H. Stark, *<a href=
-"https://www.dpg-verhandlungen.de/year/2017/conference/dresden/part/cpp/session/47/contribution/7?lang=en"
-class="extern">Light-switchable molecules at planar fluid
+"https://www.dpg-verhandlungen.de/year/2017/conference/dresden/part/cpp/session/47/contribution/7?lang=en">Light-switchable molecules at planar fluid
 interfaces</a>*, DPG spring meeting (2017), Dresden (Germany).
-* J. Grawitter, *Light-switchable molecules at planar fluid interfaces*, Annual Meeting of IRTG 1524 (2016), Neuruppin (Germany).
+* J. Grawitter, *Light-switchable molecules at planar fluid interfaces*, Annual Meeting of [IRTG 1524](https://web.archive.org/web/20180530134341/http://www.ssni.tu-berlin.de/menue/home) (2016), Neuruppin (Germany).
