@@ -32,6 +32,10 @@ Foto: M. Nguyen
 * Python (4 years)
 * C, PHP, Java (2 years)
 
+## Volunteering
+
+* since 2020 board member at a nonprofit in the culture sector
+
 ## Publications
 
 * J. Grawitter, [Fluid flow controlled by light-switchable surface tension and wettability](https://doi.org/10.14279/depositonce-22137) (Doctoral dissertation, 2024, Technische Universität Berlin)
