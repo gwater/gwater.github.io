@@ -9,17 +9,17 @@ layout: default
 Foto: M. Nguyen
 
 ## Experience
-### 2016-2024 Research associate, Technische Universität Berlin
+### Research associate
+<p style="margin-bottom:1em;padding:0;margin-top:-1em;">2016-2024, Technische Universität Berlin</p>
 * published 5 articles in international peer-reviewed journals as corresponding author ([see below](#publications))
 * prepared 2 grant proposals of 200.000+ EUR each, one of which funded
 * taught weekly classes (starting from 2019)
 * 10+ conference talks at international conferences
 
-## Training
-
-* 2024 Doktor der Naturwissenschaften, *summa cum laude*, Technische Universität Berlin
-* 2016 Master of Science, Technische Universität Berlin
-* 2014 Bachelor of Science, Technische Universität Berlin
+## Academic training
+* 2024 Doktor der Naturwissenschaften, *summa cum laude*
+* 2016 Master of Science (Physics)
+* 2014 Bachelor of Science (Physics)
 
 ## Languages
 
@@ -34,7 +34,7 @@ Foto: M. Nguyen
 
 ## Volunteering
 
-* since 2020 board member at a nonprofit in the culture sector
+* since 2020 board member of a culture nonprofit
 
 ## Publications
 
